@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ConnerKT
 - 👀 I’m interested in Programming!
-- 🌱 I’m currently learning CS50
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python, FrontEnd Development, and CS50 Classes
+- ➕ I'll be using my GitHub to track my progress as a self taught software engineer and build my track record of programming knowledge
 - 📫 How to reach me - connerthompson121@gmail.com
 
 <!---
