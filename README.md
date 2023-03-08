@@ -17,3 +17,5 @@
 [![GitHub followers](https://img.shields.io/github/followers/ConnerKT?style=social)](https://www.github.com/ConnerKT)
 
 [![Linkedin Badge](https://img.shields.io/badge/-ConnerKT-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ConnerKT/)](https://www.linkedin.com/in/ConnerKT/)
+
+## <img height="35" src="https://github.com/ConnerKT/ConnerKT/blob/a01ffb04a59511f80ab8139b4a715d71116e919d/assets/plant.gif"/>    The languages I know
