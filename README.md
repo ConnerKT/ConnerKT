@@ -4,7 +4,7 @@
 - ➕ I'll be using my GitHub to track my progress as a self taught software engineer and build my track record of programming knowledge
 - 📫 How to reach me - connerthompson121@gmail.com
 
-## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> My Info!
+## <img height="40" src="https://github.com/ConnerKT/ConnerKT/blob/a01ffb04a59511f80ab8139b4a715d71116e919d/assets/plant.gif"/> My Info!
 
 [![GitHub followers](https://img.shields.io/github/followers/ConnerKT?style=social)](https://www.github.com/ConnerKT)
 
