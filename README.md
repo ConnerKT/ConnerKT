@@ -4,10 +4,8 @@
 - ➕ I'll be using my GitHub to track my progress as a self taught software engineer and build my track record of programming knowledge
 - 📫 How to reach me - connerthompson121@gmail.com
 
-<!---
-ConnerKT/ConnerKT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> My Info!
+
 [![GitHub followers](https://img.shields.io/github/followers/ConnerKT?style=social)](https://www.github.com/ConnerKT)
 
 [![Linkedin Badge](https://img.shields.io/badge/-ConnerKT-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ConnerKT/)](https://www.linkedin.com/in/ConnerKT/)
