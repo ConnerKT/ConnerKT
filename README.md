@@ -18,4 +18,4 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-ConnerKT-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ConnerKT/)](https://www.linkedin.com/in/ConnerKT/)
 
-## <img height="35" src="https://github.com/ConnerKT/ConnerKT/blob/a01ffb04a59511f80ab8139b4a715d71116e919d/assets/plant.gif"/>    The languages I know
+## <img height="35" src="https://github.com/ConnerKT/ConnerKT/blob/d8ca9d588f86cf0116b0ce3f93f599550ffd4ccf/assets/exclamation.gif"/>    The languages I know
