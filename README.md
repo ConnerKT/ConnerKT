@@ -1,14 +1,4 @@
-# Hello! I'm Conner Thompson, a Software Developer! 👋
-
-- :star: I'm currently a Software Developer at CodeCrew.
-- 🌱 I’m currently learning Web Development and JavaScript!
-- ➕ Connect with me and get to know me!
-- ➕ My hobbies are:
-  - Video Games
-  - Anime
-  - Kpop
-  - Lifting Weights
-  - Baking
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=500&color=53F762&width=500&lines=Hello+my+name+is+Conner+Thompson+I'm+a+Software+Engineer;Hello+my+name+is+Conner+Thompson+I'm+a+Gamer;Hello+my+name+is+Conner+Thompson+I'm+a+Lifter;Hello+my+name+is+Conner+Thompson+I'm+a+Music+Fan;Hello+my+name+is+Conner+Thompson+I'm+a+Baker;Hello+my+name+is+Conner+Thompson+I'm+a+Anime+Fan;Hello+my+name+is+Conner+Thompson+I'm+a+SE+at+CodeCrew;Hello+my+name+is+Conner+Thompson+I'm+a+Fullstack+Developer)](https://git.io/typing-svg)
 
 ## <img height="35" src="https://github.com/ConnerKT/ConnerKT/blob/a01ffb04a59511f80ab8139b4a715d71116e919d/assets/plant.gif"/>    My Info!
 
