@@ -1,11 +1,21 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=53F762&width=1000&lines=Hello+my+name+is+Conner+Thompson+I'm+a+Software+Engineer;Hello+my+name+is+Conner+Thompson+I'm+a+Gamer;Hello+my+name+is+Conner+Thompson+I'm+a+Lifter;Hello+my+name+is+Conner+Thompson+I'm+a+Music+Fan;Hello+my+name+is+Conner+Thompson+I'm+a+Baker;Hello+my+name+is+Conner+Thompson+I'm+a+Anime+Fan;Hello+my+name+is+Conner+Thompson+I'm+a+SE+at+CodeCrew;Hello+my+name+is+Conner+Thompson+I'm+a+Fullstack+Developer)](https://git.io/typing-svg)
 
+<details>
+<summary>🎶 Spotify Now Playing</summary>
+
+[<img src="https://spotify-github-profile.vercel.app/api/view?uid=epicgammie12&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" width="350" />](https://github.com/kittinan/spotify-github-profile)
+
+</details>
+
+
 ## <img height="35" src="https://github.com/ConnerKT/ConnerKT/blob/a01ffb04a59511f80ab8139b4a715d71116e919d/assets/plant.gif"/>    My Info!
 
 [![GitHub followers](https://img.shields.io/github/followers/ConnerKT?style=social)](https://www.github.com/ConnerKT)
 [![Linkedin Badge](https://img.shields.io/badge/-ConnerKT-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ConnerKT/)](https://www.linkedin.com/in/ConnerKT/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ConnerKT&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ## <img height="35" src="https://github.com/ConnerKT/ConnerKT/blob/2768b151b3123fbdde98c305a26537f165940f7a/assets/exclamationcolor.gif"/>    The languages I know
 
