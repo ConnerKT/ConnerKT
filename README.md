@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=53F762&width=1000&lines=Hello+my+name+is+Conner+Thompson+I'm+a+Software+Engineer;Hello+my+name+is+Conner+Thompson+I'm+a+Gamer;Hello+my+name+is+Conner+Thompson+I'm+a+Lifter;Hello+my+name+is+Conner+Thompson+I'm+a+Music+Fan;Hello+my+name+is+Conner+Thompson+I'm+a+Baker;Hello+my+name+is+Conner+Thompson+I'm+a+Anime+Fan;Hello+my+name+is+Conner+Thompson+I'm+a+SE+at+CodeCrew;Hello+my+name+is+Conner+Thompson+I'm+a+Fullstack+Developer)](https://git.io/typing-svg)
 
-<details>
+
 <summary>🎶 Spotify Now Playing</summary>
 
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=epicgammie12&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" width="350" />
 
-</details>
+
 
 
 ## <img height="35" src="https://github.com/ConnerKT/ConnerKT/blob/a01ffb04a59511f80ab8139b4a715d71116e919d/assets/plant.gif"/>    My Info!
